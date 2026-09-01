@@ -1,37 +1,4 @@
-# Lab 1 - Getting Started
-
-## Section 1
-
-Please use the following credentials to connect to device:
-
-| <!-- -->         | <!-- -->         |
-| ---------------- | ---------------- |
-| `IP Address`     | 1.1.1.1          |
-| `Username`       | admin            |
-| `Password`       | C1sco123         |
-
-
-My content
-
-!!! note
-    This is a note
-
-Cisco IOS code block:
-
-```ios
-hostname ABC
-interface GigabitEthernet1
- ip address 122.1.1.1
-```
-
-
-
-Image:
-
-<figure markdown>
-  ![ACI](./assets/aci.png){ width="500" }
-</figure>
-
-## Section 2
-
-More content
+# Lab Guide
+[Open the placeholder](/assets/placeholderLAB-11090_GettingStartedWithWebexCalling_LabGuide_submitted82126.docx){target="_blank" rel="noopener"}
+# Presentation
+[Placeholder](assets/CLS-21168 - From Pain Points to Power Moves - WebexOne 2026.pdf){target="_blank" rel="noopener"}
