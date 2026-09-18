@@ -41,5 +41,3 @@ Create an auto attendant for the main number
 
 STOP: End of Lab 7
 
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-014.png)

@@ -2,7 +2,7 @@
 
 In this lab, you will login in Webex as Charles Holland and use the Supervisor Customer Assist experience. Login in Webex as Anita Perez and use the agent Customer Assist experience. Optional, login as well with the Kelly Melby
 
-### Login in Webex as Charles Holland.
+### Log into Webex as Charles Holland.
 
 In your dCloud Session View, open the Remote Access for Workstation 1
 
@@ -10,7 +10,7 @@ In your dCloud Session View, open the Remote Access for Workstation 1
 * Open Webex and login as cholland
 * Go to Customer Assist in the Webex app
 
-### Login in Webex as Anita Perez.
+### Log into Webex as Anita Perez.
 
 In your dCloud Session View, open the Remote Access for Workstation 2
 
@@ -31,7 +31,7 @@ In your dCloud Session View, open the Remote Access for Workstation 2
   + Customer Assist queue recordings
   + Analytics dashboard reports for Customer Assist
 
-### Login in as Anita Perez in the user portal.
+### Log in as Anita Perez in the user portal.
 
 * Open user.webex.com in the browser and login as aperez
 * Go to Settings > Calling > Features > Mode Management
@@ -48,5 +48,3 @@ In your dCloud Session View, open the Remote Access for Workstation 2
 
 STOP: End of Lab 8
 
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-015.png)

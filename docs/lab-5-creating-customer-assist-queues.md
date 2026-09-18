@@ -97,6 +97,3 @@ Select GuestSerices Queue to configure additional features.
 | [Webex Calling Customer Assist](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist) |  |  |
 
 STOP: End of Lab 5
-
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-012.png)

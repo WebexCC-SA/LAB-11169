@@ -39,6 +39,3 @@ In this lab, you will learn how assign the supervisor role to a customer assist 
 | [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling) |  |
 
 STOP: End of Lab 6
-
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-013.png)

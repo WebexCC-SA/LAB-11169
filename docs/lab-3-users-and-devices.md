@@ -48,5 +48,3 @@ Assign devices to users manually or in bulk
 
 STOP: End of Lab 3
 
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-010.png)

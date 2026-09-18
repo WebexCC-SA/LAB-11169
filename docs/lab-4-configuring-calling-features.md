@@ -47,6 +47,3 @@ Create a greeting to welcome to the Palmora Resort Concierge queue
 | [Voicemail Group](https://help.webex.com/en-us/article/mcjd4u/Manage-a-shared-voicemail-and-inbound-fax-box-for-Webex-Calling) | [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling) | [Announcement Files](https://help.webex.com/en-us/article/n5y120ab/Manage-Announcement-Repository) |
 
 STOP: End of Lab 4
-
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-011.png)

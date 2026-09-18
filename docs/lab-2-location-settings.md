@@ -74,5 +74,3 @@ Create a schedule for PalmoraResort
 
 STOP: End of Lab 2
 
-Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
-![](assets/docx-image-009.png)
