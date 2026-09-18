@@ -90,6 +90,11 @@ nav:
     - Lab 1 - Organization Settings: lab-1-organization-settings.md
     - Lab 2 - Location Settings: lab-2-location-settings.md
     - Lab 3 - Users and Devices: lab-3-users-and-devices.md
+    - Lab 4 - Configuring Calling Features: lab-4-configuring-calling-features.md
+    - Lab 5 - Creating Customer Assist Queues: lab-5-creating-customer-assist-queues.md
+    - Lab 6 - Setting Customer Assist Supervisors & Features: lab-6-setting-customer-assist-supervisors-and-features.md
+    - Lab 7 - Create the Auto Attendant: lab-7-create-the-aa-for-the-main-number.md
+    - Lab 8 - Test Call Routing: lab-8-test-call-routing.md
   # - Welcome: welcome.md
   # - Lab:
   #     - Overview: overview.md
@@ -102,10 +107,10 @@ nav:
   #       - Using the tool after the initial setup: howToUse/postInitial.md
   #       - Publishing your changes: howToUse/syncChanges.md
   #     - Useful Tools and Resources: howToUse/usefulTools.md
-  - Importing from Word (docx): howToUse/importingFromWord.md
+  # - Importing from Word (docx): howToUse/importingFromWord.md
   #     - Styling and Advanced Features:
   #       - Custom Features: howToUse/customFeatures.md
   #       - Custom Admonitions: howToUse/admonition.md
   #     - Looking for Inspiration: howToUse/previousEventLabs.md
   #     - Before the Event: howToUse/beforeTheEvent.md
-  - Lab Documents: lab1_getting_started.md
+  # - Lab Documents: lab1_getting_started.md
