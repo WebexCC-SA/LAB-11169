@@ -14,7 +14,7 @@ Management > Organization Settings > Control Hub Idle Timeout
 * Change the timeout to 12 hours
 * Save
 
-### 2. Internal extensions have 3 digits
+#### 2. Internal extensions have 3 digits
 
 Services > Calling > Settings > Service > Internal Dialing
 
@@ -28,11 +28,15 @@ Services > Calling > Settings > Service > Call Recording
 * Click on the toggle, to turn on Record emergency calls
 * Save
 
-|  |  |  |
-| --- | --- | --- |
-| Help article links |  |  |
-| [Getting started with Control Hub](https://help.webex.com/en-us/article/nkhozs6/Get-started-with-Control-Hub) | [Configure Emergency Call Notifications](https://help.webex.com/en-us/article/nj0abhbb/Configure-emergency-call-notifications-in-Control-Hub) | [Configure dial plans](https://help.webex.com/en-us/article/pxtu15/Configure-your-Webex-Calling-dial-plan) |
-| [Manage call recording for Webex Calling](https://help.webex.com/en-us/article/ilga4/Manage-call-recording-for-Webex-Calling) | [Configure default voicemail passcode](https://help.webex.com/en-us/article/npafdh5/Configure-a-default-voicemail-passcode-for-all-new-users) |  |
+
+
+**Help article links**
+
+* [Getting started with Control Hub](https://help.webex.com/en-us/article/nkhozs6/Get-started-with-Control-Hub)
+* [Configure Emergency Call Notifications](https://help.webex.com/en-us/article/nj0abhbb/Configure-emergency-call-notifications-in-Control-Hub) 
+* [Configure dial plans](https://help.webex.com/en-us/article/pxtu15/Configure-your-Webex-Calling-dial-plan) 
+* [Manage call recording for Webex Calling](https://help.webex.com/en-us/article/ilga4/Manage-call-recording-for-Webex-Calling)
+* [Configure default voicemail passcode](https://help.webex.com/en-us/article/npafdh5/Configure-a-default-voicemail-passcode-for-all-new-users)
 
 STOP: End of Lab 1
 
