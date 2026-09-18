@@ -1,0 +1,45 @@
+# Lab 7: Create the AA for the main number
+
+In this lab, you will learn how to create and configure an auto attendant**.**
+
+### Agents should have access only to features necessary for their roles on their desktops.
+
+*Services > Calling > Features > Auto attendant > Add New*
+
+Create an auto attendant for the main number
+
+* Location: PalmoraResort
+* Name: Main AA
+* Phone Number: Main Number
+* Extension: 203
+* Language: English
+* Business Hours Schedule: Open Hours
+* Holiday Schedule: None
+* Business Hours Menu
+  + Disable extension level dialing
+  + Option 1: Transfer without prompt: Extension 201
+  + Option 2: Transfer with prompt: Extension 202
+  + Option 3: Transfer to operator: Anita Perez
+  + Option 4: Repeat
+  + Option 5: Exit
+  + Menu timeout and repeat configuration
+    - Repeat on no input: 1 time
+    - Action after all repeat attempts: End the call
+* After Hours Menu
+  + Option 1: Transfer without prompt: – Extension 600 (VmailGroup)
+  + Menu timeout and repeat configuration
+    - Repeat on no input: 1 time
+    - Action after all repeat attempts: End the call
+* Business Hours Greeting
+  + Custom Greeting: Use TTs (copy and edit the sample script)
+* After Hours Greeting
+  + Custom Greeting: Use TTs (copy and edit the sample script)
+
+| Help articles | |
+| --- | --- |
+| [Auto Attendant](https://help.webex.com/en-us/article/nsioxoi/Manage-auto-attendants-in-Control-Hub) |  |
+
+STOP: End of Lab 7
+
+Raise your hand and leave it raised in the Webex Meeting. Wait for further instruction.  
+![](assets/docx-image-014.png)

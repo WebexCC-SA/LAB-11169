@@ -86,6 +86,10 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
+  - Labs:
+    - Lab 1 - Organization Settings: lab-1-organization-settings.md
+    - Lab 2 - Location Settings: lab-2-location-settings.md
+    - Lab 3 - Users and Devices: lab-3-users-and-devices.md
   # - Welcome: welcome.md
   # - Lab:
   #     - Overview: overview.md
@@ -98,7 +102,7 @@ nav:
   #       - Using the tool after the initial setup: howToUse/postInitial.md
   #       - Publishing your changes: howToUse/syncChanges.md
   #     - Useful Tools and Resources: howToUse/usefulTools.md
-  #     - Importing from Word (docx): howToUse/importingFromWord.md
+  - Importing from Word (docx): howToUse/importingFromWord.md
   #     - Styling and Advanced Features:
   #       - Custom Features: howToUse/customFeatures.md
   #       - Custom Admonitions: howToUse/admonition.md
