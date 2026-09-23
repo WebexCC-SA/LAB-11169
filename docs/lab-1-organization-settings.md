@@ -5,7 +5,8 @@ In this lab, you’ll log in with your instructor provided credentials and updat
 **1. Log into Control Hub: [admin.webex.com](http://admin.webex.com/)**
 
 - Use an incognito/private window in your browser
-- Instructor provided log in details
+- Log in with cholland credentials
+    - Example: cholland @cb375.dc-05.com, dCloud1234!
 
 **2. You don’t want to be logged out of Control Hub every 20 minutes.**
 
