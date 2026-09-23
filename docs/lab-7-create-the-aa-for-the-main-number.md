@@ -35,7 +35,7 @@ Create an auto attendant for the main number
     - Label: AADayT
     - Thank you for calling Palmora Resort. Please use the following menu to direct your call. Press 1 for reservations. Press 2 for Guest Services. Press 3 or wait in the line to talk with an operator. Press 4 to Repeat menu. Press 5 to Exit menu.
 * After Hours Greeting
-    - Custom Greeting: Use TTs
+    - Custom Greeting: Use text-to-speech
     - Label: AANight
     - Thank you for calling Palmora Resort. Our offices are closed. Please call back during our business hours or press 1 to leave a voicemail.
 
