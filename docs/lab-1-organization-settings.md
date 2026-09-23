@@ -2,28 +2,28 @@
 
 In this lab, you’ll log in with your instructor provided credentials and update the timeout settings, as well as some Organization Settings.
 
-1. Log in to Control Hub: [admin.webex.com](http://admin.webex.com/)
+**1. Log into Control Hub: [admin.webex.com](http://admin.webex.com/)**
 
-* Use an incognito/private window in your browser
-* Instructor provided login details
+- Use an incognito/private window in your browser
+- Instructor provided log in details
 
-2. You don’t want to be logged out of Control Hub every 20 minutes.
+**2. You don’t want to be logged out of Control Hub every 20 minutes.**
 
 Management > Organization Settings > Control Hub Idle Timeout
 
-* Change the timeout to 12 hours
-* Save
+- Change the timeout to 12 hours
+- Save
 
-3. Internal extensions have 3 digits
+**3. Enable Bounced call policy for Customer Assist agents**
 
-Services > Calling > Settings > Service > Internal Dialing
+Services > Calling > Settings > Service > Bounced call policy for Customer Assist agents
 
-* Click on edit, and set the Internal Extension Length to 3
-* Save
+- Click on the toggle, to turn on Bounced call policy for Customer Assist agents
+- Save
 
-4. Set call recording for emergency calls
+**Help Article Links**
 
-Services > Calling > Settings > Service > Call Recording
+* [Getting started with Control Hub](https://help.webex.com/en-us/article/nkhozs6/Get-started-with-Control-Hub)
+* [Change agent status after bounced calls](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist#task-template_c26e48c2-55ec-47ba-9659-00f914c2cd58)
 
-* Click on the toggle, to turn on Record emergency calls
-* Save
+**STOP: End of Lab 1**

@@ -86,7 +86,11 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
-  - Labs:
+  - About this Lab: 
+    - Overview and Objectives: lab-overview-objectives.md
+    - Customer Scenario: example-customer-scenario.md
+  - Lab Activities:
+    - Getting Started with Your Environment: getting-started-with-your-environment.md
     - Lab 1 - Organization Settings: lab-1-organization-settings.md
     - Lab 2 - Location Settings: lab-2-location-settings.md
     - Lab 3 - Users and Devices: lab-3-users-and-devices.md
@@ -95,6 +99,7 @@ nav:
     - Lab 6 - Setting Customer Assist Supervisors & Features: lab-6-setting-customer-assist-supervisors-and-features.md
     - Lab 7 - Create the Auto Attendant: lab-7-create-the-aa-for-the-main-number.md
     - Lab 8 - Test Call Routing: lab-8-test-call-routing.md
+  - Wrapping Up: wrappingup.md
   # - Welcome: welcome.md
   # - Lab:
   #     - Overview: overview.md
