@@ -1,24 +1,24 @@
 # Lab 8: Test call routing
 
-In this lab, you will login in Webex as Charles Holland and use the Supervisor Customer Assist experience. Login in Webex as Anita Perez and use the agent Customer Assist experience. Optional, login as well with the Kelly Melby
+Log into Webex as Charles Holland to experience the Supervisor Customer Assist experience. Simultaneously, log into Webex as Anita Perez to experience the agent Customer Assist experience. Optionally, log in as Kellie Melby as an agent.
 
-### Log into Webex as Charles Holland.
+1. Log into Webex as Charles Holland.
 
 In your dCloud Session View, open the Remote Access for Workstation 1
 
 * Click on Web RDP
-* Open Webex and login as cholland
+* Open Webex and log in as cholland
 * Go to Customer Assist in the Webex app
 
-### Log into Webex as Anita Perez.
+2. Log into Webex as Anita Perez.
 
 In your dCloud Session View, open the Remote Access for Workstation 2
 
 * Click on Web RDP
-* Open Webex and login as aperez
+* Open Webex and log in as aperez
 * Go to Customer Assist in the Webex app
 
-### Call the main number, and test routing.
+3. Call the main number, and test routing.
 
 * Call the main number, test the AA options, try the Reservation Queue option.
 * Take the call as Anita Perez in the remote session.
@@ -31,20 +31,12 @@ In your dCloud Session View, open the Remote Access for Workstation 2
   + Customer Assist queue recordings
   + Analytics dashboard reports for Customer Assist
 
-### Log in as Anita Perez in the user portal.
+4. Log in as Anita Perez in the user portal.
 
-* Open user.webex.com in the browser and login as aperez
+* Open user.webex.com in the browser and log in as aperez
 * Go to Settings > Calling > Features > Mode Management
 * Select the Reservations Queue
   + Switch Mode
   + EmergencyClosure
 * Call the main number, test the AA options, try the Reservations Queue option
-
-• In the Mode Management list, click into the Reservations Queue. Switch mode back to normal
-
-| Help articles | |
-| --- | --- |
-| [Supervisor experience in Webex App](https://help.webex.com/en-us/article/nc8142w/Get-started-with-Webex-Calling-Customer-Assist-for-Supervisors) | [Agent experience in Webex App](https://help.webex.com/en-us/article/n15c125/Get-started-with-Webex-Calling-Customer-Assist-for-Agents) |
-
-STOP: End of Lab 8
-
+  + In the Mode Management list, click into the Reservations Queue. Switch mode back to normal

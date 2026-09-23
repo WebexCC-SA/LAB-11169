@@ -107,7 +107,7 @@ nav:
   #       - Using the tool after the initial setup: howToUse/postInitial.md
   #       - Publishing your changes: howToUse/syncChanges.md
   #     - Useful Tools and Resources: howToUse/usefulTools.md
-  # - Importing from Word (docx): howToUse/importingFromWord.md
+  #- Importing from Word (docx): howToUse/importingFromWord.md
   #     - Styling and Advanced Features:
   #       - Custom Features: howToUse/customFeatures.md
   #       - Custom Admonitions: howToUse/admonition.md

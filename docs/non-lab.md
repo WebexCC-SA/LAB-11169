@@ -1,86 +1,62 @@
-![](assets/docx-image-001.png)![](assets/docx-image-002.png)![](assets/docx-image-003.png)
+# Webex Calling Customer Assist Hands-on Lab
 
-Webex Calling Customer Assist Hands-on Lab
+![](assets/docx-image-001.png)![](assets/docx-image-002.png)![](assets/docx-image-003.png)
 
 LAB-11169
 
 # Table of Contents
 
-[1](#_Toc239245757)
+[Webex Calling Customer Assist Hands-on Lab 1](#_Toc240619688)
 
-[Table of Contents 2](#_Toc239245758)
+[Table of Contents 2](#_Toc240619689)
 
-[Lab overview & objectives 3](#_Toc239245759)
+[Lab overview & objectives 3](#_Toc240619690)
 
-[Example customer scenario 3](#_Toc239245760)
+[Example customer scenario 3](#_Toc240619691)
 
-[Basic Customer Information 3](#_Toc239245761)
+[Basic Customer Information 3](#_Toc240619692)
 
-[Connectivity Requirements 3](#_Toc239245762)
+[Connectivity Requirements 3](#_Toc240619693)
 
-[Users 4](#_Toc239245763)
+[Users 4](#_Toc240619694)
 
-[Call Flows 4](#_Toc239245764)
+[Call Flows 5](#_Toc240619695)
 
-[Using this workbook 6](#_Toc239245765)
+[Using this workbook 6](#_Toc240619696)
 
-[Lab 1: Organization Settings 7](#_Toc239245766)
+[Lab 1: Organization Settings 7](#_Toc240619697)
 
-[Lab 2: Location Settings 8](#_Toc239245767)
+[Help Article Links 7](#_Toc240619698)
 
-[Lab 3: Users and Devices 10](#_Toc239245768)
+[Lab 2: Location Settings 8](#_Toc240619699)
 
-[Lab 4: Configuring Calling Features 12](#_Toc239245769)
+[Help Article Links 9](#_Toc240619700)
 
-[Lab 5: Creating Customer Assist Queues 14](#_Toc239245770)
+[Lab 3: Users and Devices 10](#_Toc240619701)
 
-[Lab 6: Setting Customer Assist Supervisors and Features 17](#_Toc239245771)
+[Help Article Links 11](#_Toc240619702)
 
-[Lab 7: Create the AA for the main number 18](#_Toc239245772)
+[Lab 4: Configuring Calling Features 12](#_Toc240619703)
 
-[Lab 8: Test call routing 20](#_Toc239245773)
+[Help Article Links 13](#_Toc240619704)
 
-[Useful links 21](#_Toc239245774)
+[Lab 5: Creating Customer Assist Queues 14](#_Toc240619705)
 
-# Example customer scenario
+[Help Article Links 16](#_Toc240619706)
 
-Palmora Resort needs a solution that serves as both a calling and a light call center solution. This solution should facilitate call handling and provide easy and visual ways for supervisors to monitor agents.
+[Lab 6: Customer Assist Supervisors 17](#_Toc240619707)
 
-## Basic Customer Information
+[Help Article Links 17](#_Toc240619708)
 
-Customer Name: Palmora Resort
+[Lab 7: Creating an Auto Attendant 18](#_Toc240619709)
 
-Location: Miami, Florida
+[Help Article Links 18](#_Toc240619710)
 
-Business Verticals: Hospitality
+[Lab 8: Test call routing 20](#_Toc240619711)
 
-About: Palmora Resort is a tropical vacation retreat offering stylish accommodations, relaxing amenities, and memorable island-inspired experiences. Guests can book and reserve to enjoy beautiful surroundings, personalized service, dining, wellness activities, and curated adventures—all designed for a peaceful and effortless escape.
+[Help Article Links 21](#_Toc240619712)
 
-## Connectivity Requirements
-
-Basic Connectivity Image
-
-![](assets/docx-image-005.png)
-
-## Users
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Department | Agents | Supervisors | Total |
-| Reservations | 3 | 1 |  |
-| Concierge | 3 | 0 |  |
-| Totals | 6 | 1 | 7 |
-
-## Call Flows
-
-![](assets/docx-image-006.png)
-
-### Additional information
-
-* + Agents receive calls based on who has been idle the most
-  + Supervisor monitors calls from the Webex app
-
-# Using this workbook
+## Using this guide
 
 Lab URL: [admin.webex.com](http://admin.webex.com/)
 
@@ -88,25 +64,72 @@ Login credentials: Provided by instructor
 
 All labs generally follow the same layout shown below
 
-|  |
-| --- |
-| Numbered headings identify each lab step.  Blue italic text shows Control Hub navigation. |
-| * Tasks to be completed |
+1. Numbered headings identify each lab step.
 
-At the end of each lab, stop and wait for further instruction. Look for the blue STOP callout and raise-hand icon.
+*Italic text shows Control Hub navigation.*
 
-![](assets/docx-image-007.png)
+* Tasks to be completed
 
-# Useful links
+At the end of each lab, stop and wait for further instruction.
 
-[Cisco Preferred Architecture for Webex Calling](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Collaboration/hybrid/AltDesigns/PA-WbxCall.pdf)
+## Help Article Links
 
-[Webex Academy](http://academy.webex.com/) – Instructor led and eLearning courses
+* [Getting started with Control Hub](https://help.webex.com/en-us/article/nkhozs6/Get-started-with-Control-Hub)
+* [Configure Emergency Call Notifications](https://help.webex.com/en-us/article/nj0abhbb/Configure-emergency-call-notifications-in-Control-Hub)
+* [Configure dial plans](https://help.webex.com/en-us/article/pxtu15/Configure-your-Webex-Calling-dial-plan)
+* [Manage call recording for Webex Calling](https://help.webex.com/en-us/article/ilga4/Manage-call-recording-for-Webex-Calling)
+* [Configure default voicemail passcode](https://help.webex.com/en-us/article/npafdh5/Configure-a-default-voicemail-passcode-for-all-new-users)
 
-[Webex for Developers - Calling](https://developer.webex.com/calling/docs/webex-calling-overview)
+STOP: End of Lab 1
 
-[Webex YouTube Channel](https://www.youtube.com/@webex/playlists)
+## Help Article Links
 
-[Webex Community - Collaboration](https://community.cisco.com/t5/collaboration/ct-p/4691-collaboration-voice-video)
+* [Setup Cisco Calling Plan](https://help.webex.com/en-us/article/nousk9ab/Get-Started-with-the-Cisco-Calling-Plan#Cisco_Task_in_List_GUI.dita_36fcaf64-4bcd-4eda-a968-ad59c7887905)
+* [Assign Location Main Number](https://help.webex.com/en-us/article/f661ju/Change-the-Main-Phone-Number-for-a-Location)
+* [Configure Voice Portal](https://help.webex.com/en-us/article/nojp8ej/Configure-voice-portals-for-Webex-Calling-in-Control-Hub)
 
-[Admin Launch Kits and User Adoption Resources](https://adopt.webex.com/deploy-and-manage/webex-suite/calling)
+STOP: End of Lab 2
+
+## Help Article Links
+
+* [Set up automatic license assignments](https://help.webex.com/en-us/article/n3ijtao/Set-up-automatic-license-assignments-in-Control-Hub)
+* [Edit licenses for individual users](https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users)
+* [Add Users Manually](https://help.webex.com/en-us/article/v71ztb/Add-users-manually-in-Control-Hub)
+* [Configure & manage Webex Calling devices](https://help.webex.com/en-us/article/n9r1aac/Configure-and-manage-Webex-Calling-devices#task_1F34AE00C60556F8DBF41250DC48DB0A)
+
+STOP: End of Lab 3
+
+## Help Article Links
+
+* [Voicemail Group](https://help.webex.com/en-us/article/mcjd4u/Manage-a-shared-voicemail-and-inbound-fax-box-for-Webex-Calling)
+* [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling)
+* [Announcement Files](https://help.webex.com/en-us/article/n5y120ab/Manage-Announcement-Repository)
+
+STOP: End of Lab 4
+
+## Help Article Links
+
+* [Webex Calling Customer Assist](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist)
+
+STOP: End of Lab 5
+
+## Help Article Links
+
+* [Assign Agents to Supervisors](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist#task-template_5a490230-e253-468f-b5e9-73276029bd17)
+* [Wrap up reason and wrap up timer](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist#Wrap-up-reason-and-wrap-up-timer)
+* [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling)
+
+STOP: End of Lab 6
+
+## Help Article Links
+
+* [Auto Attendant](https://help.webex.com/en-us/article/nsioxoi/Manage-auto-attendants-in-Control-Hub)
+
+STOP: End of Lab 7
+
+## Help Article Links
+
+* [Supervisor experience in Webex App](https://help.webex.com/en-us/article/nc8142w/Get-started-with-Webex-Calling-Customer-Assist-for-Supervisors)
+* [Agent experience in Webex App](https://help.webex.com/en-us/article/n15c125/Get-started-with-Webex-Calling-Customer-Assist-for-Agents)
+
+STOP: End of Lab 8

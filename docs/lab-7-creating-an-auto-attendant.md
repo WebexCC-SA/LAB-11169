@@ -1,14 +1,14 @@
-# Lab 7: Create the AA for the main number
+# Lab 7: Creating an Auto Attendant
 
 In this lab, you will learn how to create and configure an auto attendant**.**
 
-### Agents should have access only to features necessary for their roles on their desktops.
+1. Agents should have access only to features necessary for their roles on their desktops.
 
 *Services > Calling > Features > Auto attendant > Add New*
 
 Create an auto attendant for the main number
 
-* Location: PalmoraResort
+* Location: Palmora Resort
 * Name: Main AA
 * Phone Number: Main Number
 * Extension: 203
@@ -34,10 +34,3 @@ Create an auto attendant for the main number
   + Custom Greeting: Use TTs (copy and edit the sample script)
 * After Hours Greeting
   + Custom Greeting: Use TTs (copy and edit the sample script)
-
-| Help articles | |
-| --- | --- |
-| [Auto Attendant](https://help.webex.com/en-us/article/nsioxoi/Manage-auto-attendants-in-Control-Hub) |  |
-
-STOP: End of Lab 7
-
