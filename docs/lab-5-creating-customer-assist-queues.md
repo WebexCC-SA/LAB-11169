@@ -6,95 +6,93 @@ In this lab, you will learn how to create and configure Customer Assist call que
 
 *Services > Customer Assist > Queues > Add Queue*
 
-Create a Customer Assist Call Queue
+Create a Customer Assist Call Queue for the reservations group.
 
-* Create a Customer Assist Call Queue
-  + Location: Palmora Resort
-  + Name: Reservation Queue
-  + Number: Assign an available number
-  + Extension 201
-  + Enable: Allow agents to use call queue number as caller ID
-  + Number of calls in queue: 15
-  + External caller ID phone number: Direct Line
-  + Routing: Priority Based – Longest Idle
-  + Screen pop: Enabled
+- Location: Palmora Resort
+- Name: Reservations Queue
+- Number: Assign an available number
+- Extension 201
+- Enable: Allow agents to use call queue number as caller ID
+- Number of calls in queue: 15
+- External caller ID phone number: Direct Line
+- Routing: Priority Based – Longest Idle
+- Screen pop: Enabled
     - URL: https://www.webexone.com/
-    - Label:webexone
-  + Overflow Settings:
-    - Transfer to phone number: Extension 600 PR\_VmailGroup
+    - Label: webexone
+- Overflow Settings:
+    - Transfer to phone number: Extension 600 PR_VmailGroup
     - Enable overflow after 60 seconds
-  + Welcome Message:
+- Welcome Message:
     - Welcome Message is mandatory: Enabled
-      * Custom Greeting: Announcement files
-      * Select: Welcome reservation (from previous lab)
+        - Custom Greeting: Announcement files
+        - Select: Welcome reservation (from previous lab)
     - Comfort Message: Enabled
-    - Time between comfort message: 15 seconds
-  + Hold Music: Enabled
-  + Agents:
+        - Time between comfort message: 15 seconds
+- Hold Music: Enabled
+- Agents:
     - Enable: Allow agents on active calls to take additional calls.
     - Enable: Allow agents to join or unjoin the queue.
     - Anita Perez, Taylor Bard, Kellie Melby
 
-**2. Reservation Queue has additional settings.**
+**2. Reservations Queue has additional settings.**
 
-*Services > Customer Assist > Queues > Reservation Queue > Queue Policies*
+*Services > Customer Assist > Queues > Reservations Queue*
 
-Select Reservation Queue to configure additional features.
+Select Reservations Queue to configure additional features.
 
-* Select Reservation Queue to configure additional features
-  + Queue Policies - Night Service
+- Queue Policies - Night Service
     - Enable Night Service:
     - Transfer to Phone number: Extension 600 (VmailGroup)
     - Business Hours: Open Hours schedule
-  + Queue Policies - Stranded Calls
+- Queue Policies - Stranded Calls
     - Night Service: selected
-  + Call Recording
+- Queue recordings
+    - Call Recording: Enable
     - Always with Pause/Resume (select all)
     - Generate Transcript with Summary and action items
 
-**3. Create a Customer Assist queue for the Guest Services**
+**3. Callers to Guest Services should be placed on hold until an agent is available.**
 
 *Services > Customer Assist > Queues > Add Queue*
 
 Create a Customer Assist Call Queue for the Guest Services
 
-* Create a Customer Assist Call Queue for Guest Services
-  + Location: Palmora Resort
-  + Name: GuestServices Queue
-  + Enable: Allow agents to use call queue number as caller ID
-  + Extension 202
-  + Number of calls in queue: 15
-  + External caller ID phone number: Location number
-  + Routing: Priority Based – Longest Idle
-  + Screen pop: Enabled
+- Location: Palmora Resort
+- Name: Guest Services Queue
+- Enable: Allow agents to use call queue number as caller ID
+- Extension 202
+- Number of calls in queue: 15
+- External caller ID phone number: Location number
+- Routing: Priority Based – Longest Idle
+- Screen pop: Enabled
     - URL: https://www.webex.com/
-    - Label:webexpage
-  + Overflow Settings:
-    - Transfer to phone number: Extension 600 PR\_VmailGroup
+    - Label: Webex by Cisco
+- Overflow Settings:
+    - Transfer to phone number: Extension 600 PR_VmailGroup
     - Enable overflow after 60 seconds
-  + Welcome Message:
+- Welcome Message:
     - Welcome Message is mandatory: Enabled
-      * Custom Greeting: Announcement files
-      * Select: Greetings Guest Services (from previous lab)
+        - Custom Greeting: Announcement files
+        - Select: Greetings Guest Services (from previous lab)
     - Comfort Message: Enabled
-    - Time between comfort message: 15 seconds
-  + Hold Music: Enabled
-  + Agents:
+        - Time between comfort message: 15 seconds
+- Hold Music: Enabled
+- Agents:
     - Enable: Allow agents on active calls to take additional calls.
     - Enable: Allow agents to join or unjoin the queue.
-    - Stefan Mauk, Rebekah Barretta, Eric Steele
+    - Taylor Bard, Stefan Mauk, Rebekah Barretta, Eric Steele
 
 **4. Guest Services Queue has additional settings.**
 
-*Services > Customer Assist > Queues > GuestServices Queue*
+*Services > Customer Assist > Queues > Guest Services Queue*
 
-Select GuestServices Queue to configure additional features.
+Select Guest Services Queue to configure additional features.
 
-* Select Guest Services Queue to configure additional features
-  + Bounced Calls
+- Bounced Calls
     - Bounce calls after set number of rings: 6 rings
-    - Enable Bounce if agent becomes unavailable
-  + Call Recording
+    - Bounce if agent becomes unavailable: Enable
+- Queue recordings
+    - Call Recording: Enable
     - Always with Pause/Resume (select all)
     - Generate Transcript with Summary and action items
 
@@ -102,4 +100,5 @@ Select GuestServices Queue to configure additional features.
 
 * [Webex Calling Customer Assist](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist)
 
-**STOP: End of Lab 5**
+!!! danger "STOP: End of Lab 5"
+    Wait for instructions before proceeding.

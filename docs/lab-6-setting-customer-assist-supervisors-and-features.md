@@ -42,4 +42,5 @@ Add Reservation Queue
 * [Wrap up reason and wrap up timer](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist#Wrap-up-reason-and-wrap-up-timer)
 * [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling)
 
-**STOP: End of Lab 6**
+!!! danger "STOP: End of Lab 6"
+    Wait for instructions before proceeding.

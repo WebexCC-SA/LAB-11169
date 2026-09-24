@@ -111,4 +111,5 @@ Use Google Chrome in Workstation 2.
 * [Supervisor experience in Webex App](https://help.webex.com/en-us/article/nc8142w/Get-started-with-Webex-Calling-Customer-Assist-for-Supervisors)
 * [Agent experience in Webex App](https://help.webex.com/en-us/article/n15c125/Get-started-with-Webex-Calling-Customer-Assist-for-Agents)
 
-**STOP: End of Lab 8**
+!!! danger "STOP: End of Lab 8"
+    Wait for instructions before proceeding.

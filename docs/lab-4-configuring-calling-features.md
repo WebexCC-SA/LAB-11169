@@ -24,7 +24,7 @@ Create an operating mode to route to voicemail
 - No schedule
 - Forward destination: PR\_VmailGroup Ext 600
 
-**3. Some call routings require announcements.**
+**3. Some call routing features require announcements.**
 
 *Services > Calling > Features > Announcements > Add New > Text to speech*
 
@@ -33,14 +33,30 @@ Create a greeting to welcome guests to the Palmora Resort Reservation queue
 - Level: Location
 - Location: Palmora Resort
 - Label: Welcome Reservation
-- Text: Welcome to the Palmora Resort reservations. A reservation agent will be with you shortly.
+- Text:
+
+    ```text
+    Welcome to the Palmora Resort reservations. A reservation agent will be with you shortly.
+    ```
+
+- Language: English
+- Voice: You choose!
     - Generate the file before saving.
-- Create a greeting to welcome guests to the Palmora Resort Reservation queue
-    - Level: Location
-    - Location: Palmora Resort
-    - Label: Greetings Guest Services
-    - Text: Welcome to Guest Services. A representative will be with you shortly.
-        - Generate the file before saving
+
+Create a greeting to welcome guests to the Palmora Resort Reservation queue
+
+  - Level: Location
+  - Location: Palmora Resort
+  - Label: Greetings Guest Services
+  - Text:
+
+      ```text
+      Welcome to Guest Services. A representative will be with you shortly.
+      ```
+
+  - Language: English
+  - Voice: You choose!
+    - Generate the file before saving
 
 **Help Article Links**
 
@@ -48,4 +64,5 @@ Create a greeting to welcome guests to the Palmora Resort Reservation queue
 * [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling)
 * [Announcement Files](https://help.webex.com/en-us/article/n5y120ab/Manage-Announcement-Repository)
 
-**STOP: End of Lab 4**
+!!! danger "STOP: End of Lab 4"
+    Wait for instructions before proceeding.

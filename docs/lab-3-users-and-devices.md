@@ -2,21 +2,24 @@
 
 In this lab, you will learn how to assign licenses and extensions to users manually.
 
-**1. Anita Perez needs a phone number and use calling features.**
+**1. Users need Webex Calling Customer Assist licenses and extension numbers**
 
 *Management > Users > Anita Perez > Summary > Licenses > Edit Licenses*
 
-Assign Anita a Customer Assist license that includes Webex Calling and assign a phone number
+Assign Anita Perez a Customer Assist license
 
-- Customer Assist
-    - Customer Assist
-- Location: Palmora Resort
-- Number: Unused number
-- Extension: 101
+- Edit services screen 
+    - Select Calling in the left menu
+        - Enable Webex Calling Professional
+    - Select Customer Assist in the left menu
+        - Enable Customer Assist 
+- Calling Configuration
+    - Location: Palmora Resort
+    - Number: Any unused number
+    - Extension: 101
 
-**2. The existing users need Customer Assist licenses and extensions**
 
-Repeat the previous steps for the rest of the users, but without a number. Only assign an extension to the users as specified.
+**2. Repeat the steps for all users**
 
 |  |  |
 | --- | --- |
@@ -33,10 +36,11 @@ Repeat the previous steps for the rest of the users, but without a number. Only 
 
 *Devices > Add device > Add device to a user*
 
-Assign device to Taylor Bard manually and copy activation code.
+Assign device to Taylor Bard
 
 - Cisco Desk Phone: Cisco 9861
 - Activation method: Activation Code
+- Copy and paste the activation code into a text file to reference later
 
 **Help Article Links**
 
@@ -44,4 +48,5 @@ Assign device to Taylor Bard manually and copy activation code.
 * [Edit licenses for individual users](https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users)
 * [Configure & manage Webex Calling devices](https://help.webex.com/en-us/article/n9r1aac/Configure-and-manage-Webex-Calling-devices#task_1F34AE00C60556F8DBF41250DC48DB0A)
 
-**STOP: End of Lab 3**
+!!! danger "STOP: End of Lab 3"
+    Wait for instructions before proceeding.

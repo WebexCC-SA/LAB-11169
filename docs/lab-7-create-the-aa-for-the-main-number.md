@@ -43,4 +43,5 @@ Create an auto attendant for the main number
 
 * [Auto Attendant](https://help.webex.com/en-us/article/nsioxoi/Manage-auto-attendants-in-Control-Hub)
 
-**STOP: End of Lab 7**
+!!! danger "STOP: End of Lab 7"
+    Wait for instructions before proceeding.

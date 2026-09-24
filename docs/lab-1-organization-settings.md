@@ -27,4 +27,5 @@ Services > Calling > Settings > Service > Bounced call policy for Customer Assis
 * [Getting started with Control Hub](https://help.webex.com/en-us/article/nkhozs6/Get-started-with-Control-Hub)
 * [Change agent status after bounced calls](https://help.webex.com/en-us/article/72sb3r/Webex-Calling-Customer-Assist#task-template_c26e48c2-55ec-47ba-9659-00f914c2cd58)
 
-**STOP: End of Lab 1**
+!!! danger "STOP: End of Lab 1"
+    Wait for instructions before proceeding.

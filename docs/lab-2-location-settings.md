@@ -75,4 +75,5 @@ Create a schedule for Palmora Resort
 * [Configure Voice Portal](https://help.webex.com/en-us/article/nojp8ej/Configure-voice-portals-for-Webex-Calling-in-Control-Hub)
 * [Create Schedules](https://help.webex.com/en-us/article/bx6j0h/Create-schedules-in-Control-Hub)
 
-**STOP: End of Lab 2**
+!!! danger "STOP: End of Lab 2"
+    Wait for instructions before proceeding.
