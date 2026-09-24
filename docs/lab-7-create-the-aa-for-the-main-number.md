@@ -31,7 +31,7 @@ Create an auto attendant for the main number
         - Repeat on no input: 1 time
         - Action after all repeat attempts: Play message and end the call.
 * Business Hours Greeting
-    - Custom Greeting: Use text-to-speech
+    - Custom Greeting: Use text to speech
     - Label: AADay
     - Text:
 
@@ -40,7 +40,7 @@ Create an auto attendant for the main number
         ```
 
 * After Hours Greeting
-    - Custom Greeting: Use text-to-speech
+    - Custom Greeting: Use text to speech
     - Label: AANight
     - Text:
 

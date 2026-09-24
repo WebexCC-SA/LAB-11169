@@ -30,7 +30,7 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 - Select 1 for Reservations.
 - In the remote session, have Taylor Bard answer the call.
 - As the customer, end the call.
-- As Taylor Bard, set the wrap-up reason to `Booking`.
+- As Taylor Bard, set the wrap-up reason to Booking.
 
 **Test Guest Services**
 
@@ -57,8 +57,8 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 
 - In Workstation 1, open the Customer Assist Supervisor view as Charles Holland.
 - Go to **Agent > Monitoring** and select Taylor Bard.
-- In **Actions**, select **Monitor**.
-- While monitoring, test **Whisper Coach**, **Barge In**, and **Pause**.
+- In Actions, select Monitor.
+- While monitoring, test Whisper Coach, Barge In, and Pause.
 
 **Test transcripts and finish the call**
 
@@ -71,7 +71,7 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 
 - In Workstation 1, review the real-time and historical dashboards as Charles Holland.
 - In Workstation 2, sign in as Taylor and unjoin the Reservations Queue.
-- In Workstation 1, select Taylor and select **Join** to add Taylor back to the queue.
+- In Workstation 1, select Taylor and select Join to add Taylor back to the queue.
 - Test other options, such as signing out and changing the agent state.
 
 **5. Test the administrator experience.**
@@ -81,7 +81,7 @@ Go back to Collaboration Control Hub.
 **Review queue recordings**
 
 - Go to **Services > Customer Assist > Recordings**.
-- Filter by location and choose **Palmora Resort**.
+- Filter by location and choose Palmora Resort.
 
 **Review analytics**
 
@@ -91,20 +91,20 @@ Go back to Collaboration Control Hub.
 
 Use Google Chrome in Workstation 2.
 
-- Open `user.webex.com` in the browser and log in as `tbard`.
+- Open user.webex.com in the browser and log in as Taylor Bard.
 - Go to **Settings > Calling > Features > Mode Management**.
 
 **Set the Reservations Queue to Emergency Closure**
 
 - Select the Reservations Queue.
-- Select **Switch Mode**.
-- Select **Emergency Closure**.
+- Select Switch Mode.
+- Select Emergency Closure.
 
 **Test the mode and restore Normal mode**
 
 - Call the main number and select the Reservations Queue option.
 - In the Mode Management list, select the Reservations Queue.
-- Select **Switch Mode** and change the mode back to **Normal**.
+- Select Switch Mode and change the mode back to Normal.
 
 **Help Article Links**
 

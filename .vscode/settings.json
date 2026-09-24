@@ -1,5 +1,9 @@
 {
   "markdown.copyFiles.destination": {
     "**/*": "assets/${fileName}"
-  }
+  },
+  "cSpell.words": [
+    "Palmora",
+    "Vmail"
+  ]
 }
