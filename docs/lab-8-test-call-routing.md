@@ -18,8 +18,8 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 
 **2. Open User Workstation 2 and log into the Webex App as Taylor Bard**
 
-1. Repeate the same steps above for Workstaion 2
-   1. Log in will be tbard with the same domain and password as Charles Holland
+1. Repeat the same steps above for Workstation 2
+   1. Log in as Taylor Bard with the same domain and password as Charles Holland
       1. Example: tbard@cb375.dc-05.com, dCloud1234!
 
 **3. Call the main number and test routing options.**
