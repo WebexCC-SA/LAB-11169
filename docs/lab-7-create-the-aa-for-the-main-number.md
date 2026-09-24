@@ -1,6 +1,6 @@
-# Lab 7: Create the AA for the main number
+# Lab 7: Creating an Auto Attendant
 
-In this lab, you will learn how to create and configure an auto attendant**.**
+In this lab, you will learn how to create and configure an auto attendant.
 
 **1. Agents should have access only to features necessary for their roles on their desktops.**
 
@@ -32,12 +32,21 @@ Create an auto attendant for the main number
         - Action after all repeat attempts: Play message and end the call.
 * Business Hours Greeting
     - Custom Greeting: Use text-to-speech
-    - Label: AADayT
-    - Thank you for calling Palmora Resort. Please use the following menu to direct your call. Press 1 for reservations. Press 2 for Guest Services. Press 3 or wait in the line to talk with an operator. Press 4 to Repeat menu. Press 5 to Exit menu.
+    - Label: AADay
+    - Text:
+
+        ```text
+        Thank you for calling Palmora Resort. Please use the following menu to direct your call. Press 1 for reservations. Press 2 for Guest Services. Press 3 or wait in the line to talk with an operator. Press 4 to Repeat menu. Press 5 to Exit menu.
+        ```
+
 * After Hours Greeting
     - Custom Greeting: Use text-to-speech
     - Label: AANight
-    - Thank you for calling Palmora Resort. Our offices are closed. Please call back during our business hours or press 1 to leave a voicemail.
+    - Text:
+
+        ```text
+        Thank you for calling Palmora Resort. Our offices are closed. Please call back during our business hours or press 1 to leave a voicemail.
+        ```
 
 **Help Article Links**
 

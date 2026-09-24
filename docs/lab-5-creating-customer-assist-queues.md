@@ -40,6 +40,9 @@ Create a Customer Assist Call Queue for the reservations group.
 
 Select Reservations Queue to configure additional features.
 
+- Overview - Call forwarding: Enable
+    - Forward calls by modes - Add operating mode
+    - Operating mode: EmergencyClosure
 - Queue Policies - Night Service
     - Enable Night Service:
     - Transfer to Phone number: Extension 600 (VmailGroup)

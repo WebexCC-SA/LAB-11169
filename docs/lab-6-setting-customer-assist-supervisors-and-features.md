@@ -1,40 +1,36 @@
-# Lab 6: Setting Customer Assist Supervisors and Features
+# Lab 6: Supervisor Features
 
-In this lab, you will learn how assign the supervisor role to a customer assist user, and set additional features.
+In this lab, you will learn how assign the agents to supervisors, create wrap-up reasons, and assign operating modes to features and users.
 
 **1. Charles Holland need to supervise the members of both queues.**
 
 *Services > Customer Assist > Supervisors > Add Supervisor*
 
-Select Charles Holland as Supervisor
+Assign appropriate agents to Charles Holland
 
-- Select all Agents to assign to Charles Holland
+- Supervisor: Charles Holland
+- Agents: Select all
 
 **2. Create wrap-up reasons for agents to use.**
 
 *Services > Customer Assist > Desktop Experience > Add Wrap-up Reason*
 
-Name: Booking
-
-- All queues
+- Name: Booking
+    - Description: Customer booked a reservation
+    - Queues: All queues
 - Name: Cancelation
-- All queues
-- Name: Complaints
-- All queues
+    - Description: Customer canceled reservation
+    - Queues: All queues
+- Name: Complaint
+    - Description: Customer complained
+    - Queues: All queues
 
-**3. Assign Operating mode to the Reservations Queue.**
 
-*Services > Customer Assist > Queue > Select Reservation Queue*
-
-Open call Forwarding
-
-- Forward calls by modes: select Emergency Closure
-
-**4. Set Taylor Bard to use Operating modes.**
+**3. Allow Taylor Bard to use Operating modes.**
 
 *Management > Users > Taylor Bard > Calling > Call Handling > Mode Management*
 
-Add Reservation Queue
+Add Reservations Queue
 
 **Help Article Links**
 

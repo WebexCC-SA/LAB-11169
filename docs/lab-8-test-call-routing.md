@@ -1,4 +1,4 @@
-# Lab 8: Test call routing
+# Lab 8: Test Call Routing and Features
 
 In this lab, you will login in Webex as Charles Holland and Taylor Bard to use the Supervisor Customer Assist experience, as well as the Agent Customer Assist experience.
 
