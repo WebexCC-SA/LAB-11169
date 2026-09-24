@@ -2,7 +2,7 @@
 
 In this lab, you will learn how to create and configure Customer Assist call queues.
 
-**1. Callers to the Reservation number should be placed on hold until an agent is available.**
+**1. Callers to the reservations number should be placed on hold until an agent is available.**
 
 *Services > Customer Assist > Queues > Add Queue*
 
