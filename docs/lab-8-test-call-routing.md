@@ -13,8 +13,8 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 1. In your Session View, click on User Workstation 1
 2. Open Remote Access on the right and click on WebRDP
 3. Click on the Webex App and log in as Charles Holland
-   1. Same log in as you used for Collaboration Control Hub
-      1. Example: cholland @cb375.dc-05.com, dCloud1234!
+    - Same log in as you used for Collaboration Control Hub
+    - Example: cholland @cb375.dc-05.com, dCloud1234!
 
 **2. Open User Workstation 2 and log into the Webex App as Taylor Bard**
 
