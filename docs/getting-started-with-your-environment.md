@@ -16,30 +16,32 @@ Click images to enlarge
 
 **Determining your admin login credentials**
 
-There are a couple steps to determine your credentials to Collaboration Control Hub. 
-![dCloud Session View](assets/Session ID.png){ width=60% }
+There are a couple steps to determine your credentials to Collaboration Control Hub.
 
-1. Copy the last 4 digits of the Session ID and paste it in any text editor available in your computer
-   1. Example shown: 492811 - Copy 2811
+![dCloud Session View](assets/sessionid.png){ width=60% }
 
-![dCloud Session View](assets/details.png){ width=60% }
+- Copy the Session ID and paste it in any text editor available in your computer
+    - Example shown: 492812
 
-2. Go to the Details section
+![dCloud Session View](assets/Details.png){ width=60% }
+
+- Go to the Details section
    
-![dCloud DNS section](assets/assets/DNSaddress.png){ width=60% }
+![dCloud DNS section](assets/dnsaddresses.png){ width=60% }
 
-3. Scroll down to the DNS section
-4. Copy the domain name for your session and paste it in any text editor available in your computer
+- Scroll down to the DNS section
+    - Copy the domain name for your session and paste it in any text editor available in your computer
+    - Example shown: cb500.dc-05.com
 
 **Put the details together**
 
-* Administrator email format
-  + cholland@cbXXX.dc-YY.com (The domain you copied above)
-    - Example shown: cholland @cb375.dc-05.com
-* Administrator password format
+Administrator email format:
+- Add cholland@ to the domain you copied above
+    - Example shown: cholland@cb500.dc-05.com
+- Administrator password format:
   + dCloud + last four digits of session ID + !
-    - Example shown: SessionID = 492811
-      * Password will be: dCloud2811!
+    - Example shown: SessionID = 492812
+      * Password will be: dCloud2812!
 
 **Logging into Collaboration Control Hub**
 
