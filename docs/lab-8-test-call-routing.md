@@ -6,21 +6,29 @@ Go back to the dCloud Session View: <https://www.ciscodcloud.com/apps/expo/852do
 
 ![dCloud Session View showing User Workstation 1 and Remote Access](assets/docx-image-001.png){ width=75% }
 
+**1. Open Workstation 1**
+
+- In the Network section find wkst1
+  - Click the link to open
+
 ![User Workstation 1 desktop showing the Webex app](assets/docx-image-002.png){ width=75% }
 
-**1. Open User Workstation 1 and log into the Webex App as Charles Holland**
-
-1. In your Session View, click on User Workstation 1
-2. Open Remote Access on the right and click on WebRDP
-3. Click on the Webex App and log in as Charles Holland
+- Click on the Webex App and log in as Charles Holland
     - Same log in as you used for Collaboration Control Hub
     - Example: cholland @cb375.dc-05.com, dCloud1234!
 
-**2. Open User Workstation 2 and log into the Webex App as Taylor Bard**
+**2. Open User Workstation 2**
 
-1. Repeat the same steps above for Workstation 2
-   1. Log in as Taylor Bard with the same domain and password as Charles Holland
-      1. Example: tbard@cb375.dc-05.com, dCloud1234!
+- Go back to the session view tab
+- In the Network section find wkst2
+   - Click the link to open
+
+![User Workstation 2 desktop showing the Webex app](assets/docx-image-002.png){ width=75% }
+
+- Log in as Taylor Bard with the same domain and password as Charles Holland
+  - Example: tbard@cb375.dc-05.com, dCloud1234!
+
+You should now have 2 browser tabs open. Each with the appropriate user logged into the Webex App.
 
 **3. Call the main number and test routing options.**
 
