@@ -5,22 +5,20 @@ In this lab, you’ll log in with your instructor provided credentials and updat
 **1. Log into Control Hub: [admin.webex.com](http://admin.webex.com/)**
 
 - Use an incognito/private window in your browser
-- Log in with cholland credentials
-    - Example: cholland @cb375.dc-05.com, dCloud1234!
+- Log in with cholland credentials (from Getting Started section)
+    - Example: cholland@cb375.dc-05.com, dCloud1234!
 
 **2. You don’t want to be logged out of Control Hub every 20 minutes.**
 
 Management > Organization Settings > Control Hub Idle Timeout
 
 - Change the timeout to 12 hours
-- Save
 
 **3. Enable Bounced call policy for Customer Assist agents**
 
 Services > Calling > Settings > Service > Bounced call policy for Customer Assist agents
 
-- Click on the toggle, to turn on Bounced call policy for Customer Assist agents
-- Save
+- Click on the toggle to turn on bounced call policy for Customer Assist agents
 
 **Help Article Links**
 
