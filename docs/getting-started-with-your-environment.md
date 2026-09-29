@@ -1,8 +1,10 @@
-# Getting started with your environment
+# Getting Started With Your Environment
 
 To access the lab environment use the following link:
 
 <https://www.ciscodcloud.com/apps/expo/852doanwwzjba2ixk1e1q8rvh>
+
+Click images to enlarge
 
 **Launching your environment**
 
@@ -12,24 +14,24 @@ To access the lab environment use the following link:
 2. Enter your email address and agree to the terms and conditions
 3. Click Launch
 
-**dCloud Session View**
+**Determining your admin login credentials**
 
-![dCloud Session View](assets/docx-image-008.png){ width=60% }
+There are a couple steps to determine your credentials to Collaboration Control Hub. 
+![dCloud Session View](assets/Session ID.png){ width=60% }
 
-1. In the Session View, click Info to open the left side panel
-2. Copy the Session ID and paste it in any text editor available in your computer
-   1. Example shown: 492811
+1. Copy the last 4 digits of the Session ID and paste it in any text editor available in your computer
+   1. Example shown: 492811 - Copy 2811
 
-**Domain Name**
+![dCloud Session View](assets/details.png){ width=60% }
 
-![dCloud DNS section](assets/docx-image-009.png){ width=60% }
+2. Go to the Details section
+   
+![dCloud DNS section](assets/assets/DNSaddress.png){ width=60% }
 
-1. Scroll down to the DNS section
-   1. Click down arrow to open details if necessary
-2. Copy the domain name and paste it in any text editor available in your computer
-   1. Example shown: cb475.dc-05.com
+3. Scroll down to the DNS section
+4. Copy the domain name for your session and paste it in any text editor available in your computer
 
-**Determining administrator log in credentials**
+**Put the details together**
 
 * Administrator email format
   + cholland@cbXXX.dc-YY.com (The domain you copied above)
