@@ -1,4 +1,4 @@
-# Lab 3: Users and Devices
+# Lab 3: User licenses
 
 In this lab, you will learn how to assign licenses and extensions to users manually.
 
@@ -15,12 +15,11 @@ Assign Anita Perez a Customer Assist license
         - Enable Customer Assist 
 - Calling Configuration
     - Location: Palmora Resort
-    - Number: Any unused number
     - Extension: 101
 
 
 **2. Repeat the steps for all users**
-
+Do not assign phone numbers. Only extensions.
 |  |  |
 | --- | --- |
 | **User** | **Extension** |
@@ -32,21 +31,11 @@ Assign Anita Perez a Customer Assist license
 | Stefan Mauk | 107 |
 | Taylor Bard | 108 |
 
-**3. Taylor Bard needs a 9861 phone.**
-
-*Devices > Add device > Add device to a user*
-
-Assign device to Taylor Bard
-
-- Cisco Desk Phone: Cisco 9861
-- Activation method: Activation Code
-- Copy and paste the activation code into a text file to reference later
 
 **Help Article Links**
 
 * [Features available by license type](https://help.webex.com/en-us/article/n1qbbp7/Features-available-by-license-type-for-Webex-Calling)
 * [Edit licenses for individual users](https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users)
-* [Configure & manage Webex Calling devices](https://help.webex.com/en-us/article/n9r1aac/Configure-and-manage-Webex-Calling-devices#task_1F34AE00C60556F8DBF41250DC48DB0A)
 
 !!! danger "STOP: End of Lab 3"
     Wait for instructions before proceeding.

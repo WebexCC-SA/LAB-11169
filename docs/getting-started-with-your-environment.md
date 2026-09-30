@@ -1,10 +1,10 @@
 # Getting Started With Your Environment
 
-To access the lab environment use the following link:
+To access the lab environment <a href="https://www.ciscodcloud.com/apps/expo/852doanwwzjba2ixk1e1q8rvh/" target="_blank" rel="noopener">click here</a>.
 
-<https://www.ciscodcloud.com/apps/expo/852doanwwzjba2ixk1e1q8rvh>
+This will open a separate tab. You may want to separate the tabs onto separate screens to easily view the lab guide while working.
 
-Click images to enlarge
+Click images to enlarge.
 
 **Launching your environment**
 

@@ -13,18 +13,7 @@ Create a voicemail group
 - Extension: 600
 - Passcode: 258011
 
-**2. During unexpected office closures calls to the auto attendant will need to be routed to voicemail on demand by an end user.**
-
-Services > Calling > Features > Operating Mode > Add New
-
-Create an operating mode to route to voicemail
-
-- Location: Palmora Resort
-- Name: EmergencyClosure
-- No schedule
-- Forward destination: PR\_VmailGroup Ext 600
-
-**3. Some call routing features require announcements.**
+**2. Some call routing features require announcements.**
 
 *Services > Calling > Features > Announcements > Add New > Text to speech*
 
@@ -61,7 +50,6 @@ Create a greeting to welcome guests to the Palmora Resort Reservation queue
 **Help Article Links**
 
 * [Voicemail Group](https://help.webex.com/en-us/article/mcjd4u/Manage-a-shared-voicemail-and-inbound-fax-box-for-Webex-Calling)
-* [Operating Modes](https://help.webex.com/en-us/article/fozeml/Call-routing-based-on-operating-modes-in-Webex-Calling)
 * [Announcement Files](https://help.webex.com/en-us/article/n5y120ab/Manage-Announcement-Repository)
 
 !!! danger "STOP: End of Lab 4"
