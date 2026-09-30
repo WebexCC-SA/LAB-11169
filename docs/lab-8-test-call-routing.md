@@ -91,12 +91,12 @@ Go back to your browser tab with <a href="http://admin.webex.com/" target="_blan
 
 **Review queue recordings**
 
-- Go to **Services > Customer Assist > Recordings**.
+- Go to Services > Customer Assist > Recordings.
 - Filter by location and choose Palmora Resort.
 
 **Review analytics**
 
-- Go to **Monitoring > Analytics > Customer Assist**.
+- Go to Monitoring > Analytics > Customer Assist.
 
 
 **Help Article Links**
