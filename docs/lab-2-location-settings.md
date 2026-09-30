@@ -65,7 +65,7 @@ Create a schedule for Palmora Resort
 
 - Schedule Name: Open Hours
 - Schedule Type: Business Hours
-- Monday – Friday 9:00 am – 9 pm
+- Monday – Friday 7:00 am – 6:00 pm
 - Make sure to turn off the lunch schedule!
 
 **Help Article Links**

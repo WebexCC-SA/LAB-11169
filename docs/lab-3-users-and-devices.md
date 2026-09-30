@@ -19,7 +19,9 @@ Assign Anita Perez a Customer Assist license
 
 
 **2. Repeat the steps for all users**
+
 Do not assign phone numbers. Only extensions.
+
 |  |  |
 | --- | --- |
 | **User** | **Extension** |
