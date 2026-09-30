@@ -19,12 +19,12 @@ Create an auto attendant for the main number
     - Disable extension level dialing
     - Option 1: Transfer without prompt: Extension 201
     - Option 2: Transfer with prompt: Extension 202
-    - Option 3: Transfer to operator: Taylor Bard
+    - Option 3: Transfer to operator: Taylor Bard, extension 108
     - Option 4: Repeat
     - Option 5: Exit
     - Menu timeout and repeat configuration
         - Repeat on no input: 1 time
-        - Action after all repeat attempts: Transfer call to operator.
+        - Action after all repeat attempts: Transfer call to operator: Taylor Bard, extension 108
 * After Hours Menu
     - Option 1: Transfer without prompt: – Extension 600 (VmailGroup)
     - Menu timeout and repeat configuration
