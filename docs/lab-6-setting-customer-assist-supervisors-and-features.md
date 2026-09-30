@@ -18,7 +18,7 @@ Assign appropriate agents to Charles Holland
 - Name: Booking
     - Description: Customer booked a reservation
     - Queues: All queues
-- Name: Cancelation
+- Name: Cancellation
     - Description: Customer canceled reservation
     - Queues: All queues
 - Name: Complaint
