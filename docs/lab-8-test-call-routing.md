@@ -98,11 +98,17 @@ Go back to your browser tab with <a href="http://admin.webex.com/" target="_blan
 
 - Go to Monitoring > Analytics > Customer Assist.
 
+**6. Log out of your dCloud Session.**
+
+!!! danger "IMPORTANT"
+    Once you are **absolutely** sure you are done, go back to the <a href="https://www.ciscodcloud.com/apps/expo/852doanwwzjba2ixk1e1q8rvh/" target="_blank" rel="noopener">dCloud Session View</a> in your original browser. Click "Log out and End Session". DO NOT enter email address again if asked. Let your instructor know if you have issues.
+
+![logout](assets/logout.png){ width=25% }
 
 **Help Article Links**
 
 * [Supervisor experience in Webex App](https://help.webex.com/en-us/article/nc8142w/Get-started-with-Webex-Calling-Customer-Assist-for-Supervisors)
 * [Agent experience in Webex App](https://help.webex.com/en-us/article/n15c125/Get-started-with-Webex-Calling-Customer-Assist-for-Agents)
 
-!!! danger "STOP: End of Lab 8"
-    Wait for instructions before proceeding.
+!!! success "CONGRATULATIONS!"
+    You have completed LAB-11169: Webex Calling Customer Assist Hands-On Lab
